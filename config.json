@@ -3,5 +3,6 @@
   "message": "",
   "latestVersion": "1.0",
   "updateMessage": "",
-  "premiumEnabled": false
+  "premiumEnabled": false,
+  "plan": "free"
 }
